@@ -1,0 +1,6 @@
+@Sepid.Robot.ManagerWebApi_HostAddress = http://localhost:5108
+
+GET {{Sepid.Robot.ManagerWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
